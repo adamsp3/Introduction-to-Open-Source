@@ -1,4 +1,4 @@
-Name: Perri Adams
-Email: adamsp3@rpi.edu  
+##Name: Perri Adams -
+###Email: adamsp3@rpi.edu  
 
-Photo:
+###Photo:
