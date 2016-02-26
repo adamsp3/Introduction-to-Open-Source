@@ -1,0 +1,3 @@
+/Users/perriadams/Dropbox/OpenSource/Introduction-to-Open-Source/Lab5/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/perriadams/Dropbox/OpenSource/Introduction-to-Open-Source/Lab5/CMakeFiles/Tutorial.dir
+/Users/perriadams/Dropbox/OpenSource/Introduction-to-Open-Source/Lab5/MathFunctions/CMakeFiles/MakeTable.dir
