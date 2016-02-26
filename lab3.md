@@ -4,10 +4,10 @@
 ###Photo: ![Perri](images/myphoto.jpg)
 
 Part 1: 
-4. Photo: ![git log](Screenshot 2016-02-26 13.06.40.png) 
+4. Photo: ![git log](images/Screenshot 2016-02-26 13.06.40.png) 
 Part 2:
 4. 
-Photo: ![LGB](Screenshot 2016-02-26 13.12.36.png)
+Photo: ![LGB](images/Screenshot 2016-02-26 13.12.36.png)
 
 Part 3:
 
