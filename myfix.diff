@@ -1,0 +1,13 @@
+Index: /Users/perriadams/Users/perriadams/Dropbox/OpenSource/localdirectory/basics/chapter.xml
+===================================================================
+--- /Users/perriadams/Users/perriadams/Dropbox/OpenSource/localdirectory/basics/chapter.xml	(revision 48502)
++++ /Users/perriadams/Users/perriadams/Dropbox/OpenSource/localdirectory/basics/chapter.xml	(working copy)
+@@ -500,7 +500,7 @@
+ 	  </varlistentry>
+ 
+ 	  <varlistentry>
+-	    <term>Account expiry time</term>
++	    <term>Account expire time</term>
+ 
+ 	    <listitem>
+ 	      <para>By default, &os; does not expire accounts.  When
